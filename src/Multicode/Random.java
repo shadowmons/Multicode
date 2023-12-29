@@ -1,5 +1,10 @@
 package Multicode;
 
+
+/**
+ * @author Victor Gil
+ * Class to mimic the Random pseudocode generator
+ */
 public class Random {
 	
 	public Random() {
